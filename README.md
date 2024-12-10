@@ -1,5 +1,5 @@
 # Power BI Dashboard Project : a data analysis of Udemy courses
-This repository contains a Power BI dashboard created following a tutorial from Women Techsters program (https://www.womentechsters.org). The project showcases key features and functionalities of Power BI for visualizing and analyzing data effectively.
+This repository contains a Power BI dashboard created following a tutorial (with some changes regarding insights) from Women Techsters program: https://www.womentechsters.org. The project showcases key features and functionalities of Power BI for visualizing and analyzing data effectively.
 
 ## Project Overview
 The goal of this project is to:
