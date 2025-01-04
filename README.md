@@ -4,9 +4,9 @@ This repository contains a Power BI dashboard created following a tutorial (with
 ## Project Overview
 The goal of this project is to:
 
-Understand Power BI's capabilities for data transformation and visualization.
-Learn how to build interactive dashboards.
-Practice creating compelling and informative data insights.
+- Understand Power BI's capabilities for data transformation and visualization.
+- Learn how to build interactive dashboards.
+- Practice creating compelling and informative data insights.
 
 ## Features
 
